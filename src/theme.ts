@@ -4,11 +4,11 @@ import { green, purple } from '@mui/material/colors';
 let theme = createTheme({
   palette: {
     primary: {
-      main: purple[500],
+      main: "#00BFFF",
     },
     secondary: {
-      main: green[500],
-    },
+      main: "#ADD8E6",
+    }
   },
   typography: {
     fontFamily: "sans-serif"
