@@ -25,7 +25,7 @@ const About = () => {
 
                     <FadeIn delay={100}>
                         <h2 className="text-4xl lg:text-5xl font-normal text-white leading-tight">
-                            Fodase, testando, 123, lalala
+                            Lorem Ipsum Lorem Ipsum Lorem Ipsum
                         </h2>
                     </FadeIn>
 
